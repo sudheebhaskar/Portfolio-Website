@@ -75,7 +75,6 @@ hr {
 
 .list-item-inline {
     display: inline;
-    padding: 0rem 0.5rem;
 }
 
 /** navigation **/
@@ -150,13 +149,13 @@ hr {
 
 /** footers **/
 
-.footer {
-    background-color: var(--primary-color);
+.footer{
+     background-color: var(--primary-color);
     padding: 4rem 1rem;
     text-align: center;
     color: white;
     border-top-right-radius: 1rem;
-}
+} 
 
 .footer .link {
     color: white
