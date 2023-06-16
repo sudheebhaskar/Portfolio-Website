@@ -30,6 +30,7 @@ hr {
 
 .container-center {
     max-width: 600px;
+    font-size:x-large;
     margin: auto;
 }
 
@@ -137,7 +138,7 @@ hr {
     border-radius: 1rem;
     text-align: center;
     display: block;
-
+    font-size:x-large;
 }
 
 .section h1 {
@@ -146,7 +147,8 @@ hr {
 }
 
 .ow {
-    background-color: var(--off-white);
+    background-color: khaki;
+    /* background-color: var(--off-white); */
 }
 
 /** footers **/
