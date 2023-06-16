@@ -7,7 +7,9 @@
 }
 
 body {
-    font-family: 'Montserrat', sans-serif;
+
+     font-family: cursive;
+    /* font-family: 'Montserrat', sans-serif; */
     margin: 0px
 }
 
@@ -45,7 +47,7 @@ hr {
     display: block;
     max-width: 140px;
     margin: 1rem 1rem 1rem 0rem; */
-    background-color: var(--primary-color);
+    background-color:darkslateblue;
     color: white;
     border-radius: 1.2rem;
     box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
@@ -80,7 +82,7 @@ hr {
 /** navigation **/
 
 .navigation {
-    background-color: var(--primary-color);
+    background-color:rgba(114, 1, 99, 0.808);
     color: white;
     padding: 1rem;
     border-bottom-left-radius: 1rem;
@@ -150,7 +152,7 @@ hr {
 /** footers **/
 
 .footer{
-     background-color: var(--primary-color);
+     background-color: rgba(114, 1, 99, 0.808);
     padding: 4rem 1rem;
     text-align: center;
     color: white;
