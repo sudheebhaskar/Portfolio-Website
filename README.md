@@ -3,7 +3,7 @@ Portfolio Website:
 My portfolio website is created using HTML and CSS.
 website URL: https://sudheendra-portfolio-0416c2.netlify.app/
 
-About
+About:
 This is my portfolio website created using HTML and CSS. It lists projects I have created, their source code and also blogs writen by me.
 
 How it works:
