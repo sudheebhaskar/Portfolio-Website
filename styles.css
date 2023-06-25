@@ -34,6 +34,22 @@ hr {
     margin: auto;
 }
 
+
+.nav-img {
+
+    max-width: 300px;
+    max-height: 300px;
+    border-radius: 50%;
+    transition: border-radius 0.2s;
+    text-align: center;
+  }
+
+ 
+  .nav-img-div {
+    text-align: center;
+  }
+
+
 /** links **/
 .link {
     box-sizing: border-box;
@@ -113,6 +129,9 @@ hr {
 
 }
 
+.nav-img-div {
+    text-align: center;
+  }
 .hero .header-image {
 
     /* border-radius: 30px;
@@ -124,7 +143,8 @@ hr {
     
     border-radius:0%;
     overflow:hidden;
-         max-width: 250px;
+    place-items: center; 
+         
         width: 100%;
         display: block;
         margin: auto; 
